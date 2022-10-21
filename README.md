@@ -12,8 +12,8 @@ Project 10 of the OpenClassrooms [JavaScript React Developer](https://openclassr
 
 👉 [Proposed Figma design](https://www.figma.com/file/4PPk44il3Hb7ijcoaG2CZp/Learn%40Home?node-id=0%3A1)
 
-[Kanban](https://trello.com/b/4Ezve4vx/kanban-learnhome)
-[User stories](user_stories.pdf)
+[Kanban](https://trello.com/b/4Ezve4vx/kanban-learnhome) |
+[User stories](user_stories.pdf) |
 [Use cas diagrams](use_case_diagrams.pdf)
 
 #### Resources
